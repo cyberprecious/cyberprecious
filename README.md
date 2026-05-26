@@ -1,10 +1,10 @@
-Hi, I'm Precious Emmanuel 👋
-Cybersecurity Analyst | SOC | Network Security | Vulnerability Assessment
+# Hi, I'm Precious Emmanuel 👋
+# Cybersecurity Analyst | SOC | Network Security | Vulnerability Assessment
 I'm an entry-level cybersecurity analyst with hands-on experience in vulnerability assessment, network security design, brute force simulation, and incident response. Currently serving as an NYSC Corps Member and actively building real-world cybersecurity skills through practical lab environments.
 
-🔧 Tools & Technologies
+# Tools & Technologies
 
-Category                     Tools
+Category                     Tools  
 
 Scanning & Recon             Nmap, Zenmap
 Exploitation & Testing       Hydra, Metasploit, Burp Suite

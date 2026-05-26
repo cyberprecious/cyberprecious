@@ -14,9 +14,9 @@ Traffic Analysis             Wireshark
 Web App Testing              OWASP ZAP
 SIEM                         Windows Event Viewer, Log Analysis
 
-📁 Projects
+# 📁 Projects
 
-Project                                    Description
+# Project                                    Description
 MediCare Clinic Network Security           Designed a secure healthcare network with 6 VLANs, ACLs, firewall and DMZ using Cisco                                             Packet Tracer
 Vulnerability Assessment Report            Real Nmap scans on Metasploitable2 identifying 17 vulnerabilities classified by risk                                              level
 Brute Force Simulation                     Live Hydra attack on FTP service demonstrating dangers of default credentials 
@@ -26,7 +26,7 @@ Security Policy Review                     Healthcare organization security poli
 
 
 
-🎓 Certifications
+# 🎓 Certifications
 
 Cybersecurity Diploma Certificate — UTIVA (ACTD Accredited) 2025-2026
 Cybersecurity Certificate — Tetem (2024)
@@ -34,7 +34,7 @@ Cybersecurity Certificate — Tech4dev (2022)
 Virtual Assistant Certificate — ALX Africa (2022)
 
 
-📫 Connect with me
+# 📫 Connect with me
 www.linkedin.com/in/emmanuel-precious
 
 

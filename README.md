@@ -2,29 +2,29 @@
 # Cybersecurity Analyst | SOC | Network Security | Vulnerability Assessment
 I'm an entry-level cybersecurity analyst with hands-on experience in vulnerability assessment, network security design, brute force simulation, and incident response. Currently serving as an NYSC Corps Member and actively building real-world cybersecurity skills through practical lab environments.
 
-# Tools & Technologies
+## 🔧 Tools & Technologies
 
-Category                     Tools  
+| Category | Tools |
+|----------|-------|
+| Scanning & Recon | Nmap, Zenmap |
+| Exploitation & Testing | Hydra, Metasploit, Burp Suite |
+| Network Design | Cisco Packet Tracer |
+| OS & Environments | Kali Linux, Windows, VirtualBox |
+| Traffic Analysis | Wireshark |
+| Web App Testing | OWASP ZAP |
+| SIEM | Windows Event Viewer, Log Analysis |
 
-Scanning & Recon             Nmap, Zenmap
-Exploitation & Testing       Hydra, Metasploit, Burp Suite
-Network Design               Cisco Packet Tracer
-OS & Environments            Kali Linux, Windows, VirtualBox
-Traffic Analysis             Wireshark
-Web App Testing              OWASP ZAP
-SIEM                         Windows Event Viewer, Log Analysis
+---
 
-# 📁 Projects
+## 📁 Projects
 
-# Project                                    Description
-MediCare Clinic Network Security           Designed a secure healthcare network with 6 VLANs, ACLs, firewall and DMZ using Cisco                                             Packet Tracer
-Vulnerability Assessment Report            Real Nmap scans on Metasploitable2 identifying 17 vulnerabilities classified by risk                                              level
-Brute Force Simulation                     Live Hydra attack on FTP service demonstrating dangers of default credentials 
-Incident Response Plan                     Full ransomware incident response simulation across 6 phases
-Security Policy Review                     Healthcare organization security policy audit with recommendations
-
-
-
+| Project | Description |
+|---------|-------------|
+| [MediCare Clinic Network Security](https://github.com/cyberprecious/medicare-clinic-network-security) | Designed a secure healthcare network with 6 VLANs, ACLs, firewall and DMZ |
+| [Vulnerability Assessment Report](https://github.com/cyberprecious/vulnerability-assessment-report) | Real Nmap scans identifying 17 vulnerabilities classified by risk level |
+| [Brute Force Simulation](https://github.com/cyberprecious/brute-force-simulation) | Live Hydra attack demonstrating dangers of default credentials |
+| [Incident Response Plan](https://github.com/cyberprecious/cybersecurity-incident-response) | Full ransomware incident response simulation across 6 phases |
+| [Security Policy Review](https://github.com/cyberprecious/security-policy-review) | Healthcare security policy audit with recommendations |
 
 # 🎓 Certifications
 
